@@ -37,8 +37,10 @@ A streamlined Progressive Web App (PWA) designed to manage schedules and track a
 
 | Dashboard Overview | Event Logs |
 |---|---|
-| ![Dashboard Screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/image_2fe0e5.png) |
-| ![Logs Screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/image_2fde1d.png) |
+| ![Sign up Screenshot](https://raw.githubusercontent.com/HEMAHARSAN-3/Alarm-PWA/main/Image/Sign-up.png) |
+| ![Login Screenshot](https://raw.githubusercontent.com/HEMAHARSAN-3/Alarm-PWA/main/Image/Login.png) |
+| ![Dashboard Screenshot](https://raw.githubusercontent.com/HEMAHARSAN-3/Alarm-PWA/main/Image/Dashboard.png) |
+| ![Events Screenshot](https://raw.githubusercontent.com/HEMAHARSAN-3/Alarm-PWA/main/Image/Events.png) |
 
 ---
 
